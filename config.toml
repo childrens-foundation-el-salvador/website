@@ -1,0 +1,26 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Fundación Viva Juntos por la Niñez de El Salvador"
+theme = "airspace-hugo"
+
+
+[menu]
+    [[menu.header]]
+        weight = 1
+        name = "Our Mission"
+        url = "/our-mission"
+    [[menu.header]]
+        weight = 2
+        name = "Blog"
+        url = "/blog"
+
+[params]
+    home="Home"
+
+    [params.slider]
+        enable=true
+        title="Fundación Viva Juntos por la Niñez de El Salvador"
+
+    [params.wrapper]
+        enable=true
+        title="About Us"
