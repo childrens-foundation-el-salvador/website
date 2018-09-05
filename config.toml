@@ -2,7 +2,6 @@ title = "Fundación Viva Juntos por la Niñez de El Salvador"
 languageCode = "en-us"
 
 [menu]
-
     [[menu.header]]
         weight = 2
         name = "Our Mission"
@@ -15,6 +14,10 @@ languageCode = "en-us"
         weight = 4
         name = "Contact"
         url = "/contact"
+    [[menu.header]]
+        weight = 5
+        name = "Facebook"
+        url = "https://www.facebook.com/Fundaci%C3%B3n-Viva-Juntos-por-la-Ni%C3%B1ez-de-El-Salvador-545856865515974/"
 
     [[menu.footer]]
         weight = 1
@@ -37,17 +40,16 @@ languageCode = "en-us"
 # The site's parameters
 [params]
     home = "Home"
+    dateFormat = "6 January 2006"
 
     [params.slider]
     enable = true
     title = "Fundación Viva Juntos por la Niñez de El Salvador"
-    subtitle = "We love the Web and the work we do.<br/>We work closely with our clients to deliver the best possible solutions for their needs"
 
     [params.wrapper]
     enable = true
-    title = "About Us"
-    italic = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics"
-    paragraph = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id"
+    title = "Visión"
+    paragraph = "Ser una Fundación Cristiana, comprometida con la protección y restitución de derechos de niñas, niños y adolescentes Salvadoreños por medio de un enfoque de derechos humanos de la niñez en armonía con la palabra de Dios."
 
     [params.blog]
     enable = true
@@ -56,11 +58,8 @@ languageCode = "en-us"
 
     [params.feature]
     enable = true
-    title = "We believe in great ideas"
-    content = "Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus."
-    [params.feature.button]
-    caption = "View Works"
-    url = "#"
+    title = "Misión"
+    content = "Promover acciones preventivas, de acompañamiento y restitución de derechos a niñez y adolescencia, a través de alianzas estratégicas, con el fin de procurar su desarrollo integral desde la familia, Estado y sociedad en el marco de sus derechos y responsabilidades."
 
     [params.call]
     enable = true
