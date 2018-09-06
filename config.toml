@@ -5,37 +5,37 @@ languageCode = "en-us"
     [[menu.header]]
         weight = 2
         name = "Our Mission"
-        url = "/our-mission"
+        url = "our-mission"
     [[menu.header]]
         weight = 3
         name = "Blog"
-        url = "/blog"
+        url = "blog"
     [[menu.header]]
         weight = 4
         name = "Contact"
-        url = "/contact"
+        url = "contact"
     [[menu.header]]
         weight = 5
         name = "Facebook"
-        url = "https://www.facebook.com/Fundaci%C3%B3n-Viva-Juntos-por-la-Ni%C3%B1ez-de-El-Salvador-545856865515974/"
+        url = "https://www.facebook.com/Fundaci%C3%B3n-Viva-Juntos-por-la-Ni%C3%B1ez-de-El-Salvador-545856865515974"
 
     [[menu.footer]]
         weight = 1
         name = "Our Mission"
-        url = "/our-mission"
+        url = "our-mission"
     [[menu.footer]]
         weight = 2
         name = "Blog"
-        url = "/blog"
+        url = "blog"
     [[menu.footer]]
         weight = 3
         name = "Contact"
-        url = "/contact"
+        url = "contact"
 
     [[menu.footer]]
         weight = 4
         name = "Facebook"
-        url = "https://www.facebook.com/Fundaci%C3%B3n-Viva-Juntos-por-la-Ni%C3%B1ez-de-El-Salvador-545856865515974/"
+        url = "https://www.facebook.com/Fundaci%C3%B3n-Viva-Juntos-por-la-Ni%C3%B1ez-de-El-Salvador-545856865515974"
 
 # The site's parameters
 [params]
