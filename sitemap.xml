@@ -3,55 +3,55 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/blog/welcome/</loc>
+    <loc>https://childrens-foundation-el-salvador.github.io/website/blog/welcome/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>/</loc>
+    <loc>https://childrens-foundation-el-salvador.github.io/website/blog/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/ipsum/</loc>
+    <loc>https://childrens-foundation-el-salvador.github.io/website/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://childrens-foundation-el-salvador.github.io/website/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://childrens-foundation-el-salvador.github.io/website/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/lorem/</loc>
+    <loc>https://childrens-foundation-el-salvador.github.io/website/tags/ipsum/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/service/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
+    <loc>https://childrens-foundation-el-salvador.github.io/website/categories/lorem/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/work/</loc>
+    <loc>https://childrens-foundation-el-salvador.github.io/website/service/</loc>
+  </url>
+  
+  <url>
+    <loc>https://childrens-foundation-el-salvador.github.io/website/tags/</loc>
+    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://childrens-foundation-el-salvador.github.io/website/work/</loc>
   </url>
   
 </urlset>
