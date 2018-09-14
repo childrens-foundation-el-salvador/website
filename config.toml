@@ -64,7 +64,7 @@ title = "Fundación Viva Juntos por la Niñez de El Salvador"
             [[languages.es.menu.header]]
                 weight = 2
                 name = "Nuestros socios"
-                url = "our-partners"
+                url = "nuestros-socios"
             [[languages.es.menu.header]]
                 weight = 3
                 name = "Visión"
@@ -84,24 +84,24 @@ title = "Fundación Viva Juntos por la Niñez de El Salvador"
 
             [[languages.es.menu.footer]]
                 weight = 1
-                name = "Our Partners"
-                url = "our-partners"
+                name = "Nuestros socios"
+                url = "nuestros-socios"
             [[languages.es.menu.footer]]
                 weight = 2
-                name = "Vision"
+                name = "Visión"
                 url = "vision"
             [[languages.es.menu.footer]]
                 weight = 3
-                name = "Mission"
-                url = "mission"
+                name = "Misión"
+                url = "Misión"
             [[languages.es.menu.footer]]
                 weight = 5
-                name = "Values"
-                url = "values"
+                name = "Valores"
+                url = "valores"
             [[languages.es.menu.footer]]
                 weight = 6
-                name = "Contact"
-                url = "contact"
+                name = "Contáctanos"
+                url = "contactanos"
             [[languages.es.menu.footer]]
                 weight = 7
                 name = "Facebook"
