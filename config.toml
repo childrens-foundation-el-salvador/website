@@ -8,6 +8,7 @@ title = "Fundación Viva Juntos por la Niñez de El Salvador"
 [languages]
     [languages.es]
         home = "Home"
+        contentDir = "content/es"
 
         [languages.es.slider]
         enable = true
@@ -29,7 +30,7 @@ title = "Fundación Viva Juntos por la Niñez de El Salvador"
         [languages.es.feature]
         enable = true
         title = "Misión"
-        content = """
+        paragraph = """
             Promover acciones preventivas, de acompañamiento y restitución de derechos a niñez y adolescencia, a través
             de alianzas estratégicas, con el fin de procurar su desarrollo integral desde la familia, Estado y sociedad
             en el marco de sus derechos y responsabilidades."""
@@ -62,24 +63,24 @@ title = "Fundación Viva Juntos por la Niñez de El Salvador"
         [languages.es.menu]
             [[languages.es.menu.header]]
                 weight = 2
-                name = "Our Partners"
+                name = "Nuestros socios"
                 url = "our-partners"
             [[languages.es.menu.header]]
                 weight = 3
-                name = "Vision"
+                name = "Visión"
                 url = "vision"
             [[languages.es.menu.header]]
                 weight = 4
-                name = "Mission"
-                url = "mission"
+                name = "Misión"
+                url = "mision"
             [[languages.es.menu.header]]
                 weight = 5
-                name = "Values"
-                url = "values"
+                name = "Valores"
+                url = "valores"
             [[languages.es.menu.header]]
                 weight = 6
-                name = "Contact"
-                url = "contact"
+                name = "Contáctanos"
+                url = "contactanos"
 
             [[languages.es.menu.footer]]
                 weight = 1
@@ -108,6 +109,7 @@ title = "Fundación Viva Juntos por la Niñez de El Salvador"
 
     [languages.en]
         home = "Home"
+        contentDir = "content/en"
 
         [languages.en.slider]
         enable = true
@@ -129,7 +131,7 @@ title = "Fundación Viva Juntos por la Niñez de El Salvador"
         [languages.en.feature]
         enable = true
         title = "Misión"
-        content = """
+        paragraph = """
             Promover acciones preventivas, de acompañamiento y restitución de derechos a niñez y adolescencia, a través
             de alianzas estratégicas, con el fin de procurar su desarrollo integral desde la familia, Estado y sociedad
             en el marco de sus derechos y responsabilidades."""
