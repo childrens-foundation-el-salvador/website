@@ -40,6 +40,10 @@ title = "Fundación Viva Juntos por la Niñez de El Salvador"
             enable = true
             title = "Haz una donación"
 
+        [languages.es.news_and_activities]
+            enable = true
+            title = "Noticias y actividades"
+
         [languages.es.contact]
             enable = true
             title = "Drop us a note"
