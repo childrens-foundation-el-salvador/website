@@ -9,7 +9,10 @@
 	{{ if isset .Params "id" }}
 		{{ partial .Params.id . }}
 	{{ else }}
-		<main>{{ .Content }}</main>
+        {{ partial "global-header.html" . }}
+        <div class="page container">
+            {{ .Content }}
+        </div>
 	{{ end }}
 
 	{{ if and (isset .Site.Params "call") (.Site.Params.call.enable) }}

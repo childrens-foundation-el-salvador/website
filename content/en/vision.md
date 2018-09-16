@@ -1,4 +1,3 @@
 +++
 title = "Vision"
-id = "vision"
 +++

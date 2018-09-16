@@ -26,3 +26,8 @@
 .post-area a:hover {
     color: #0D0017;
 }
+
+.page.container {
+    margin-top: 3em;
+    margin-bottom: 3em;
+}
