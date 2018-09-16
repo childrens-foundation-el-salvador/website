@@ -2,14 +2,10 @@ enable: true
 title: Nuestros Valores
 content:
 
-  - icon: ion-coffee
-    name: Integridad
+  - name: Integridad
 
-  - icon: ion-compass
-    name: Armonía
+  - name: Armonía
 
-  - icon: ion-image
-    name: Justicia
+  - name: Justicia
 
-  - icon: ion-bug
-    name: Solidaridad
+  - name: Solidaridad

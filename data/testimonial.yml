@@ -1,7 +1,8 @@
 enable: true
-title: Fun Facts About Us
+title: Noticias y actividades
 paragraph: >
-  Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics
+    Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.
+    Separated they live in Bookmarksgrove right at the coast of the Semantics
 
 numbers:
   - icon: ion-ios-chatboxes-outline
@@ -16,25 +17,3 @@ numbers:
   - icon: ion-ios-timer-outline
     counter: 2000
     text: Cups of Coffee
-
-people:
-  - text: >
-      This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd.
-    image: img/item-img1.jpg
-    name: Rose Ray
-    role: CEO-Themefisher
-  - text: >
-      This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd.
-    image: img/item-img1.jpg
-    name: Rose Ray
-    role: CEO-Themefisher
-  - text: >
-      This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd.
-    image: img/item-img1.jpg
-    name: Rose Ray
-    role: CEO-Themefisher
-  - text: >
-      This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd.
-    image: img/item-img1.jpg
-    name: Rose Ray
-    role: CEO-Themefisher

@@ -16,24 +16,25 @@ title = "Fundación Viva Juntos por la Niñez de El Salvador"
 
         [languages.es.wrapper]
         enable = true
-        title = "Visión"
+        title = "Quienes somos"
         paragraph = """
-            Ser una Fundación Cristiana, comprometida con la protección y restitución de derechos de niñas, niños y
-            adolescentes Salvadoreños por medio de un enfoque de derechos humanos de la niñez en armonía con la
-            palabra de Dios."""
+            Organización Cristiana humanitaria comprometida con la prevención, protección y restitución de derechos de
+            niñez adolescencia y sus familias domiciliadas en zonas de alto riesgo social , familiar y ambiental.
+            """
+
+        [languages.es.feature]
+        enable = true
+        title = "Que hacemos"
+        paragraph = """
+            Acompañamos a 21 Iglesias, Centros Escolares, Comunidades, Centros de acogimiento  y Fundaciones. 2,700 niñas,
+            niños y adolescentes domiciliados en zonas de alto riesgo familiar, social y ambiental. Acompañados a través
+            de procesos educativos, preventivos  y de sensibilización.
+            """
 
         [languages.es.blog]
         enable = true
         title = "Get The Latest On What We're doing"
         subtitle = "Catch up with us, anytime and anywhere"
-
-        [languages.es.feature]
-        enable = true
-        title = "Misión"
-        paragraph = """
-            Promover acciones preventivas, de acompañamiento y restitución de derechos a niñez y adolescencia, a través
-            de alianzas estratégicas, con el fin de procurar su desarrollo integral desde la familia, Estado y sociedad
-            en el marco de sus derechos y responsabilidades."""
 
         [languages.es.call]
             enable = true
