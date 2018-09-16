@@ -14,7 +14,7 @@ title = "Fundación Viva Juntos por la Niñez de El Salvador"
         enable = true
         title = "Fundación Viva Juntos por la Niñez de El Salvador"
 
-        [languages.es.wrapper]
+        [languages.es.about_us]
         enable = true
         title = "Quienes somos"
         paragraph = """
@@ -113,7 +113,7 @@ title = "Fundación Viva Juntos por la Niñez de El Salvador"
         enable = true
         title = "Fundación Viva Juntos por la Niñez de El Salvador"
 
-        [languages.en.wrapper]
+        [languages.en.about_us]
         enable = true
         title = "Visión"
         paragraph = """

@@ -10,8 +10,8 @@
     		{{ partial "slider.html" . }}
     	{{ end }}
 
-    	{{ if and (isset .Site.Params "wrapper") (.Site.Params.wrapper.enable) }}
-    		{{ partial "wrapper.html" . }}
+    	{{ if and (isset .Site.Params "about_us") (.Site.Params.about_us.enable) }}
+    		{{ partial "about_us.html" . }}
     	{{ end }}
 
     	{{ if and (isset .Site.Params "feature") (.Site.Params.feature.enable) }}
