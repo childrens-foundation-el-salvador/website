@@ -31,3 +31,6 @@
     margin-top: 3em;
     margin-bottom: 3em;
 }
+.page.container p {
+    font-size: 18px;
+}
