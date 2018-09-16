@@ -3,7 +3,7 @@
  * In airspace, it is called style.css
  * However, style.css now holds additional styles for this jekyll port. (Not written by ThemeFisher)
  * The original style.css is now called airspace.css
- * 
+ *
  */
 
 /*
@@ -100,6 +100,9 @@ a:active {
 header {
   background: #fff;
   padding: 20px 0;
+}
+header .logo {
+    width: 50px;
 }
 header .navbar {
   margin-bottom: 0px;
@@ -264,7 +267,7 @@ font header .navbar-default .navbar-nav li a:hover {
 	Feature Start
 --*/
 #feature {
-  background: url("../img/featue-bg.jpg");
+  background: url("../img/feature-bg.jpg");
   background-position: 50% 94px;
   width: 100%;
   display: block;

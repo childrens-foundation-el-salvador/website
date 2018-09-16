@@ -5,47 +5,52 @@
     <link>https://childrens-foundation-el-salvador.github.io/website/</link>
     <description>Recent content on Fundación Viva Juntos por la Niñez de El Salvador</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 10 Oct 2015 13:07:31 +0200</lastBuildDate>
     
 	<atom:link href="https://childrens-foundation-el-salvador.github.io/website/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Migrate from Jekyll</title>
-      <link>https://childrens-foundation-el-salvador.github.io/website/blog/welcome/</link>
-      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
-      
-      <guid>https://childrens-foundation-el-salvador.github.io/website/blog/welcome/</guid>
-      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
-▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
-▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://childrens-foundation-el-salvador.github.io/website/contact/</link>
+      <title>Contáctanos</title>
+      <link>https://childrens-foundation-el-salvador.github.io/website/contactanos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://childrens-foundation-el-salvador.github.io/website/contact/</guid>
+      <guid>https://childrens-foundation-el-salvador.github.io/website/contactanos/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Service</title>
-      <link>https://childrens-foundation-el-salvador.github.io/website/service/</link>
+      <title>Misión</title>
+      <link>https://childrens-foundation-el-salvador.github.io/website/mision/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://childrens-foundation-el-salvador.github.io/website/service/</guid>
+      <guid>https://childrens-foundation-el-salvador.github.io/website/mision/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Work</title>
-      <link>https://childrens-foundation-el-salvador.github.io/website/work/</link>
+      <title>Nuestros socios</title>
+      <link>https://childrens-foundation-el-salvador.github.io/website/nuestros-socios/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://childrens-foundation-el-salvador.github.io/website/work/</guid>
+      <guid>https://childrens-foundation-el-salvador.github.io/website/nuestros-socios/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Valores</title>
+      <link>https://childrens-foundation-el-salvador.github.io/website/valores/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://childrens-foundation-el-salvador.github.io/website/valores/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visión</title>
+      <link>https://childrens-foundation-el-salvador.github.io/website/vision/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://childrens-foundation-el-salvador.github.io/website/vision/</guid>
       <description></description>
     </item>
     

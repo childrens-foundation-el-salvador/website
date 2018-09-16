@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://childrens-foundation-el-salvador.github.io/website/en/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://childrens-foundation-el-salvador.github.io/website/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://childrens-foundation-el-salvador.github.io/website/en/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://childrens-foundation-el-salvador.github.io/website/en/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://childrens-foundation-el-salvador.github.io/website/en/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://childrens-foundation-el-salvador.github.io/website/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://childrens-foundation-el-salvador.github.io/website/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://childrens-foundation-el-salvador.github.io/website/en/mission/</loc>
+  </url>
+  
+  <url>
+    <loc>https://childrens-foundation-el-salvador.github.io/website/en/our-partners/</loc>
+  </url>
+  
+  <url>
+    <loc>https://childrens-foundation-el-salvador.github.io/website/en/programs/</loc>
+  </url>
+  
+  <url>
+    <loc>https://childrens-foundation-el-salvador.github.io/website/en/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://childrens-foundation-el-salvador.github.io/website/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://childrens-foundation-el-salvador.github.io/website/en/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://childrens-foundation-el-salvador.github.io/website/en/vision/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://childrens-foundation-el-salvador.github.io/website/vision/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://childrens-foundation-el-salvador.github.io/website/en/vision/"
+                />
+  </url>
+  
+</urlset>
