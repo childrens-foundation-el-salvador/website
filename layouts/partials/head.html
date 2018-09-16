@@ -3,21 +3,17 @@
 <meta name="description" content="">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<!-- robots -->
-<!-- you may configure it in the front matter of the page or in site params -->
+
 {{ if or (isset .Params "robots") (isset .Site.Params "robots") }}
-<meta name="robots" content="{{ with .Params.robots }}{{ . }}{{ else }}{{ .Site.Params.robots }}{{ end }}">
+    <meta name="robots" content="{{ with .Params.robots }}{{ . }}{{ else }}{{ .Site.Params.robots }}{{ end }}">
 {{ end }}
 
-<!-- Place favicon.ico and apple-touch-icon.png in the root directory
-     or place appropriate <link .../> etc in favicon.html partial -->
 {{ partial "favicon.html" . }}
 
 <title>{{ .Title }}</title>
 
 {{ .Hugo.Generator }}
 
-<!-- CSS -->
 <link rel="stylesheet" href="{{ .Site.BaseURL }}/css/owl.carousel.css" />
 <link rel="stylesheet" href="{{ .Site.BaseURL }}/css/bootstrap.min.css" />
 <link rel="stylesheet" href="{{ .Site.BaseURL }}/css/font-awesome.min.css" />
@@ -29,7 +25,6 @@
 <link rel="stylesheet" href="{{ .Site.BaseURL }}/css/responsive.css" />
 <link rel="stylesheet" href="{{ .Site.BaseURL }}/css/syntax.css" />
 
-<!-- Js -->
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
 <script src="{{ .Site.BaseURL }}/js/bootstrap.min.js"></script>
@@ -40,16 +35,3 @@
 
 
 <script src="{{ .Site.BaseURL }}/js/main.js"></script>
-
-<!--
-/*
- * Airspace
- * Ported to Hugo by Giacomo Mariani
- * https://github.com/karju-dev/airspace-hugo
- * Based on the original Jakyll porting by Andrew Lee
- * https://github.com/luminousrubyist/airspace-jekyll
- * Designed and Developed by ThemeFisher
- * https://themefisher.com/
- *
- */
--->
