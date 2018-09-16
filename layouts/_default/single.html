@@ -32,7 +32,7 @@
     </p>
 
     {{ if and (isset .Site.Params "call") (.Site.Params.call.enable) }}
-    {{ partial "call-to-action.html" . }}
+    {{ partial "call_to_action.html" . }}
     {{ end }}
 
     {{ partial "footer.html" . }}
