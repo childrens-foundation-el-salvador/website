@@ -6,6 +6,10 @@
                     {{ .Site.Params.news_and_activities.title }}
                 </h2>
             </div>
+
+            {{ range where .Site.RegularPages "Section" "blog" }}
+                {{ template "blog/summary.html" . }}
+            {{ end }}
         </div>
     </div>
 </section>

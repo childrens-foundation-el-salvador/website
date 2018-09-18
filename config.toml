@@ -10,7 +10,7 @@ title = "Fundación Viva Juntos por la Niñez de El Salvador"
         home = "Home"
         contentDir = "content/es"
 
-        [languages.es.slider]
+        [languages.es.banner]
         enable = true
         title = "Fundación Viva Juntos por la Niñez de El Salvador"
 
@@ -22,7 +22,7 @@ title = "Fundación Viva Juntos por la Niñez de El Salvador"
             niñez adolescencia y sus familias domiciliadas en zonas de alto riesgo social , familiar y ambiental.
             """
 
-        [languages.es.feature]
+        [languages.es.what_we_do]
         enable = true
         title = "Que hacemos"
         paragraph = """
@@ -113,7 +113,7 @@ title = "Fundación Viva Juntos por la Niñez de El Salvador"
         home = "Home"
         contentDir = "content/en"
 
-        [languages.en.slider]
+        [languages.en.banner]
         enable = true
         title = "Fundación Viva Juntos por la Niñez de El Salvador"
 
