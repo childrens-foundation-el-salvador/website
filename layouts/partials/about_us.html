@@ -4,25 +4,21 @@
         <div class="row">
 
             <div class="col-md-6 col-sm-12">
-                <div class="block">
-                    <div class="section-title">
-                        <h2>
-                            {{ .Site.Params.about_us.title }}
-                        </h2>
-                        <p>
-                            {{ .Site.Params.about_us.italic }}
-                        </p>
-                    </div>
+                <div class="section-title">
+                    <h2>
+                        {{ .Site.Params.about_us.title }}
+                    </h2>
                     <p>
-                        {{ .Site.Params.about_us.paragraph }}
+                        {{ .Site.Params.about_us.italic }}
                     </p>
                 </div>
+                <p>
+                    {{ .Site.Params.about_us.paragraph }}
+                </p>
             </div>
 
-            <div class="col-md-5 col-sm-12">
-                <div class="block">
-                    <img src="{{ .Site.BaseURL }}/img/about_us_img.png" alt="Img">
-                </div>
+            <div class="col-md-6 col-sm-12">
+                <img src="{{ .Site.BaseURL }}/img/about_us_img.png" alt="Img">
             </div>
         </div>
     </div>

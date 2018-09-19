@@ -7,29 +7,27 @@
         {{ partial "header.html" . }}
 
         <div class="post">
-            <section class="section" style="border: 1px dotted #ddd;">
+            <section>
                 <div class="container">
                     <div class="row">
-                        <div>
-                            <div class="block">
-                                {{ with .Params.image }}<img src="{{ . | absURL }}" width="100%" alt="post-image"> {{ end }}
-                                <h1>{{ .Params.title }}</h1>
-                                <div class="post-info-about_us">
-                                    <p class="italic">
-                                        By <span class="bold">{{ .Params.author }}</span> on <span class="bold">
-                                            {{ .Date.Format .Site.Params.dateFormat }}
-                                        </span>
-                                    </p>
-                                </div>
-                                <hr />
-                                <p>{{ .Content }}</p>
+                        <div class="col-md-12">
+                            {{ with .Params.image }}<img src="{{ . | absURL }}" width="100%" alt="post-image"> {{ end }}
+                            <h1>{{ .Params.title }}</h1>
+                            <div class="post-info-about_us">
+                                <p class="font-italic">
+                                    By <span class="font-weight-bold">{{ .Params.author }}</span> on <span class="font-weight-bold">
+                                        {{ .Date.Format .Site.Params.dateFormat }}
+                                    </span>
+                                </p>
                             </div>
+                            <hr />
+                            <p>{{ .Content }}</p>
                         </div>
                     </div>
                 </div>
             </section>
         </div>
-        <p class="center-text" style="padding: 30px;">
+        <p class="text-center">
             <a class="btn btn-main" href="{{ $.Site.BaseURL }}/blog">
                 Back to blog
             </a>
