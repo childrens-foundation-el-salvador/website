@@ -3,48 +3,53 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <nav class="navbar navbar-default">
-                    <div class="container-fluid">
-                        <div class="navbar-header">
-                            <button
-                                type="button"
-                                class="navbar-toggle collapsed"
-                                data-toggle="collapse"
-                                data-target="#bs-example-navbar-collapse-1">
+                <nav class="navbar navbar-expand-lg navbar-light">
+                    <div class="navbar-brand">
+                        <a
+                            class="navbar-brand"
+                            href="{{ .Site.BaseURL }}">
+                            <img
+                                alt="{{ .Site.Title }} Logo"
+                                class="logo"
+                                src="{{ .Site.BaseURL }}/img/logo.jpg">
+                        </a>
+                    </div>
 
-                                <span class="sr-only">Toggle navigation</span>
-                                <span class="icon-bar"></span>
-                                <span class="icon-bar"></span>
-                                <span class="icon-bar"></span>
-                            </button>
-                            <a
-                                class="navbar-brand"
-                                href="{{ .Site.BaseURL }}">
+                    <button
+                        aria-controls="navbar-collapse-target"
+                        aria-expanded="false"
+                        aria-label="Toggle navigation"
+                        class="navbar-toggler"
+                        data-toggle="collapse"
+                        data-target="#navbar-collapse-target"
+                        type="button">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
 
-                                <img
-                                    alt="{{ .Site.Title }} Logo"
-                                    class="logo"
-                                    src="{{ .Site.BaseURL }}/img/logo.jpg">
-                            </a>
-                        </div>
-                        <div
-                            class="collapse navbar-collapse"
-                            id="bs-example-navbar-collapse-1">
 
-                            <ul class="nav navbar-nav navbar-right">
-                                <li>
-                                    <a href="{{ .Site.BaseURL }}">
-                                        {{ .Site.Params.home }}
+                    <div
+                        class="collapse navbar-collapse"
+                        id="navbar-collapse-target">
+
+                        <ul class="navbar-nav ml-auto">
+                            <li class="nav-item ml-2 mr-2">
+                                <a
+                                    class="nav-link"
+                                    href="{{ .Site.BaseURL }}">
+                                    {{ .Site.Params.home }}
+                                </a>
+                            </li>
+
+                            {{ range .Site.Menus.header }}
+                                <li class="nav-item ml-2 mr-2">
+                                    <a
+                                        class="nav-link"
+                                        href="{{ .URL | relLangURL }}/">
+                                        {{ .Name }}
                                     </a>
                                 </li>
-
-                                {{ range .Site.Menus.header }}
-                                    <li>
-                                        <a href="{{ .URL | relLangURL }}/">{{ .Name }}</a>
-                                    </li>
-                                {{ end }}
-                            </ul>
-                        </div>
+                            {{ end }}
+                        </ul>
                     </div>
                 </nav>
             </div>
