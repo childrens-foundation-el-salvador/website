@@ -10,6 +10,7 @@
     margin-bottom: 50px;
 }
 .section-title h2 {
+    color: #1F4397;
     text-transform: uppercase;
     font-size: 28px;
     font-weight: 600;
@@ -21,7 +22,7 @@
 }
 
 .btn-main, .btn-transparent, .btn-small {
-    background: #655E7A;
+    background: #F8A31C;
     color: #fff;
     display: inline-block;
     font-size: 14px;
@@ -34,7 +35,7 @@
 }
 
 .btn-main:hover, .btn-transparent:hover, .btn-small:hover {
-    background: #353240;
+    background: #CB7E04;
     color: #fff;
 }
 
@@ -65,26 +66,22 @@
 
 
 #what-we-do {
-    background: url("../img/what_we_do_bg.jpg");
-    background-position: 50% 94px;
+    background: url("../img/what_we_do.jpg");
+    background-size: 48%;
     width: 100%;
     display: block;
     position: relative;
     overflow: visible;
     background-attachment: fixed;
     background-repeat: no-repeat;
-    background-position: center center;
+    background-position: left center;
     background-color: #fff;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
     -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
-    padding: 100px 0;
+    padding: 50px 0;
 }
 
 /* What we do */
@@ -102,7 +99,7 @@
 #service .service-item h4 {
     padding-top: 20px;
     margin: 0;
-    color: #666;
+    color: #F8A31C;
 }
 #service .service-item p {
     color: #888;

@@ -34,10 +34,10 @@ footer ul li {
 }
 footer ul li a {
     display: inline-block;
-    color: #494949;
+    color: #F8A31C;
 }
 footer ul li a:hover {
-    color: #000;
+    color: #CB7E04;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -52,14 +52,15 @@ h3 {
     font-weight: 300;
 }
 
-header {
-    padding: 20px 0;
-}
 header .logo {
-    width: 50px;
+    width: 120px;
 }
 header .navbar-light .navbar-nav .nav-link {
-    color: #494949;
+    font-weight: bold;
+    color: #F8A31C;
+}
+header .navbar-light .navbar-nav .nav-link:hover {
+    color: #CB7E04;
 }
 
 p {
