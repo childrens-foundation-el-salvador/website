@@ -9,5 +9,14 @@
 	<atom:link href="https://childrens-foundation-el-salvador.github.io/website/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Welcome</title>
+      <link>https://childrens-foundation-el-salvador.github.io/website/categories/welcome/</link>
+      <pubDate>Mon, 17 Sep 2018 13:50:46 +0200</pubDate>
+      
+      <guid>https://childrens-foundation-el-salvador.github.io/website/categories/welcome/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

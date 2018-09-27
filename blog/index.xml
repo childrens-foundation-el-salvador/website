@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Fundación Viva Juntos por la Niñez de El Salvador</title>
+    <link>https://childrens-foundation-el-salvador.github.io/website/blog/</link>
+    <description>Recent content in Blogs on Fundación Viva Juntos por la Niñez de El Salvador</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 17 Sep 2018 13:50:46 +0200</lastBuildDate>
+    
+	<atom:link href="https://childrens-foundation-el-salvador.github.io/website/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome</title>
+      <link>https://childrens-foundation-el-salvador.github.io/website/blog/welcome/</link>
+      <pubDate>Mon, 17 Sep 2018 13:50:46 +0200</pubDate>
+      
+      <guid>https://childrens-foundation-el-salvador.github.io/website/blog/welcome/</guid>
+      <description>Welcome blog post</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -3,6 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://childrens-foundation-el-salvador.github.io/website/blog/welcome/</loc>
+    <lastmod>2018-09-17T13:50:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://childrens-foundation-el-salvador.github.io/website/blog/</loc>
+    <lastmod>2018-09-17T13:50:46+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://childrens-foundation-el-salvador.github.io/website/categories/</loc>
     <priority>0</priority>
     <xhtml:link
@@ -23,6 +34,7 @@
   
   <url>
     <loc>https://childrens-foundation-el-salvador.github.io/website/</loc>
+    <lastmod>2018-09-17T13:50:46+02:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -75,6 +87,18 @@
                 hreflang="es"
                 href="https://childrens-foundation-el-salvador.github.io/website/vision/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://childrens-foundation-el-salvador.github.io/website/tags/welcome/</loc>
+    <lastmod>2018-09-17T13:50:46+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://childrens-foundation-el-salvador.github.io/website/categories/welcome/</loc>
+    <lastmod>2018-09-17T13:50:46+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>
