@@ -180,28 +180,6 @@ px      68    160    252    */
         font-size: 13px;
     }
     /*--
-    about_us Start
-    --*/
-    #about_us {
-        text-align: center;
-        padding-top: 70px;
-        padding-bottom: 100px;
-    }
-    #about_us .block img {
-        padding-top: 100px;
-        padding-left: 0px;
-        width: 100%;
-    }
-    /*--
-    service Start
-    --*/
-    #service {
-        padding-top: 100px;
-    }
-    #service .thumbnail {
-        padding-bottom: 70px;
-    }
-    /*--
     call-to-action Start
     --*/
     #call-to-action p {
@@ -238,81 +216,6 @@ px      68    160    252    */
     }
     /*---------------------------------------------
     Index Close
-    -----------------------------------------------*/
-    /*=============================================*/
-    /*---------------------------------------------
-    Work Start
-    -----------------------------------------------*/
-    /*--
-    portfolio Start
-    --*/
-    #portfolio-work .block .portfolio-manu {
-        padding-left: 0px;
-        text-align: center;
-    }
-    #portfolio-work .block .portfolio-manu ul li {
-        padding: 0 8px;
-    }
-    #portfolio-work .block .portfolio-contant ul li {
-        width: 100%;
-    }
-    #portfolio-work .block .portfolio-contant ul li a .img-heading {
-        padding: 5px 0 5px 13px;
-    }
-    #portfolio-work .block .portfolio-contant ul li a .img-heading h2 {
-        font-size: 20px;
-        line-height: 25px;
-    }
-    #portfolio-work .block .portfolio-contant ul li a .img-heading p {
-        font-size: 11px;
-        line-height: 20px;
-    }
-    #portfolio-work .block .portfolio-contant ul li a .overlay {
-        padding-left: 15px;
-    }
-    #portfolio-work .block .portfolio-contant ul li a .overlay h2 {
-        padding-top: 65px;
-        padding-bottom: 15px;
-        font-size: 20px;
-        line-height: 25px;
-    }
-    #portfolio-work .block .portfolio-contant ul li a .overlay p {
-        font-size: 11px;
-        line-height: 20px;
-        padding-top: 15px;
-        padding-right: 5px;
-    }
-    /*--
-    about_us Start
-    --*/
-    #about_us-work ul li {
-        float: none;
-        width: 100%;
-    }
-    #about_us-work ul li .items-text {
-        padding-left: 15px;
-        padding-top: 30px;
-    }
-    #about_us-work ul li .items-text h2 {
-        padding-top: 10px;
-        padding-bottom: 15px;
-        font-size: 20px;
-        line-height: 25px;
-    }
-    #about_us-work ul li .items-text p {
-        font-size: 11px;
-        line-height: 20px;
-        padding-top: 15px;
-    }
-    /*--
-    features Start
-    --*/
-    #what-we-dos-work .block ul li {
-        display: block;
-        width: 100%;
-    }
-    /*---------------------------------------------
-    Work close
     -----------------------------------------------*/
     /*--
     footer Start
