@@ -1,0 +1,14 @@
+@media (max-width: 767px) {
+    #about-us {
+        padding: 30px 0;
+    }
+    #about-us img {
+        padding-top: 30px;
+    }
+    #what-we-do {
+        background: none;
+    }
+    #service {
+        padding: 30px 0;
+    }
+}
